@@ -245,8 +245,9 @@ Apply the migrations to a correctly configured SQL Server database before using 
 
 ## 13. GitHub Actions Workflow
 
-[View the RaceDay GitHub Actions Workflow](<img width="1469" height="299" alt="image" src="https://github.com/user-attachments/assets/8d99799b-2be0-4482-8a30-4e06c03fa6f9" />
-)
+[View the RaceDay GitHub Actions Workflow]
+<img width="1469" height="299" alt="image" src="https://github.com/user-attachments/assets/8d99799b-2be0-4482-8a30-4e06c03fa6f9" />
+
 
 ## 14. YouTube Demonstration Video
 
