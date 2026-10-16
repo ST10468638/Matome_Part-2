@@ -251,4 +251,5 @@ Apply the migrations to a correctly configured SQL Server database before using 
 
 ## 14. YouTube Demonstration Video
 
-[Watch the RaceDay Part 2 Demonstration](https://youtu.be/zuFH1rShy78?si=v0ULrLnJ5KJU74hJ)
+[Watch the RaceDay Part 2 Demonstration]
+https://youtu.be/zuFH1rShy78?si=v0ULrLnJ5KJU74hJ
